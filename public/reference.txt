@@ -1,0 +1,29 @@
+Reference:
+  Inicio: Dic 12, 2024    
+  Actualización: 
+  Tiempo: 4:14:08 de 7:33:39 
+Documentación:
+   C:\Proyectos\Vite\Vite.docx
+Github - Repositorio:
+    https://github.com/antoniorm80/React-SiteGround
+APIs Fake:
+    {JSON} Placeholder:
+        https://jsonplaceholder.typicode.com/
+    {Favicon} Icons:
+        https://iconos8.es/icons/set/clima
+    {Clima}:
+        https://openweathermap.org/api -> antoniorm80, ariverarm80@gmail.com, Open###m***sg
+        c19c199d65a1f94340805e76e9adf9cc
+    {Clima} Icons:
+        https://openweathermap.org/weather-conditions#Icon-list
+SiteGround:
+    https://antonior124.sg-host.com/
+Curso de React: - 7:33:39
+    https://www.youtube.com/watch?v=ladwC6Lrs-M&t=15237s
+Folder:
+    C:\Proyectos\Repositorios\Sergio Code\React\react-vite-js-swc
+Task:
+    1.- [✅] Instalación programas
+    2.- [✴️] React + Vite
+    3.- [⛔] Components
+  
